@@ -1,0 +1,13 @@
+# Archives
+*.zip
+
+# Claude
+.claude/
+
+# Temp files
+*.tmp
+新建*.txt
+
+# OS
+.DS_Store
+Thumbs.db
